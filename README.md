@@ -5,4 +5,4 @@ This guide explores several time series features using FactSet Tick Data, includ
 
 ## Step-By-Step Guide
 
-For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide]().
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/getting-started-with-time-series-analytics-with-pricing-data-on-snowflake).
