@@ -1,3 +1,5 @@
+ALTER SESSION SET query_tag = '{"origin":"sf_sit-is","name":"time_series_analysis","version":{"major":1, "minor":0},"attributes":{"is_quickstart":1, "source":"sql"}}';
+
 -- use our accountadmin role
 USE ROLE accountadmin;
 
